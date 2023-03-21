@@ -7,7 +7,7 @@
  
 - <b>Microsoft Azure</b>
   - [VPN Lab](https://github.com/ZionHopkins/VPN-Lab)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ZionHopkins/Configuring-On-premises-Active-Directory-within-Azure-VMs)
 
 <h2>🤳Connect with me:</h2>
 
